@@ -1,7 +1,10 @@
 # Pequeña Fortuna (demo) – Skeleton Pygame
 Estructura mínima para un juego point-and-click *cozy*, con narrador y finales múltiples.
 
-## Requisitos
+## Requisitos instalar dentro de un entorno virtual
+- virtualenv env
+- /env/Scripts/activate.bat
+- 
 - Python 3.10+
 - `pip install pygame`
 
